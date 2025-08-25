@@ -121,6 +121,7 @@ plt.pie(OfferscompletedCustomers['customer_id'],autopct='%1.1f%%',colors=col,lab
 plt.title('Offers Completed Customers Gender_wise Distribution',fontweight='bold',fontsize=10)
 plt.show()
 ```
+![Customers](Customers%20Distribution.png)
 - The business has received the male customers more.
 - both in terms of event and offers completed that means where the other events refers to offer receive,offer viewed,and transactions happened the male customers count is more than the female count.
 - and even in terms of completing the offers also,male has contributed the 49% where as female customes have contributed to the 46.1%.
