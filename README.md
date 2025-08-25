@@ -1,4 +1,5 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
+![Caffe](Caffe.jpeg)
 ## Problem Statement
 - The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
 - Offers can be of three types: informational, discount, or buy one, get one (BOGO).
