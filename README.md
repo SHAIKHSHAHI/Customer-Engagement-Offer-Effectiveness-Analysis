@@ -136,6 +136,7 @@ sns.barplot(data=Data,x='Age_Category',y='customercount',palette='YlOrBr')
 plt.title('Age Category Wise Customer Distribution')
 plt.show()
 ```
+![Age](Customers%20Distribution.png)
 - Customers below 20 years (kids) form the smallest group, with fewer than 15,000 customers.
 
 - The largest customer group belongs to the 60+ age category (old age customers).
