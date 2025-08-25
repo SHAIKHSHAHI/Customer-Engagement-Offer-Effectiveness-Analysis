@@ -65,7 +65,7 @@ Customers['income'].interpolate(method='linear',inplace=True)
 Customers['gender']=Customers['gender'].fillna('unknown')
 Customers['Membership']=pd.to_datetime(Customers['Membership'],format='%Y%m%d')
 ```
-Customers.head(5)
+
 ## Adding Columns
 import datetime as dt
 ```python
