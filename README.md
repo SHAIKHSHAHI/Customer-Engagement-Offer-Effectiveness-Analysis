@@ -66,7 +66,7 @@ Customers['gender']=Customers['gender'].fillna('unknown')
 Customers['Membership']=pd.to_datetime(Customers['Membership'],format='%Y%m%d')
 ```
 Customers.head(5)
-# Adding Columns
+## Adding Columns
 import datetime as dt
 ```python
 Customers['Year']=Customers['Membership'].dt.year
@@ -128,10 +128,13 @@ plt.show()
 - Unknown category showing the data of customes where 1.3% customers are unknown because gender information is not provided of this customers and it can lead to generate wrong customer insights.
 - The business employees are responsible to take the proper information of the customers for the future marketing and promotional planning in the different customer segments.
 ## 2.Age Wise Customers Distribution:
+```
+python
 plt.figure(figsize=(10,4))
 sns.barplot(data=Data,x='Age_Category',y='customercount',palette='YlOrBr')
 plt.title('Age Category Wise Customer Distribution')
 plt.show()
+```
 - Customers below 20 years (kids) form the smallest group, with fewer than 15,000 customers.
 
 - The largest customer group belongs to the 60+ age category (old age customers).
@@ -163,10 +166,10 @@ AgeandIncome
 print('Correlation coefficient\n------------')
 print('AgeIncomeCorr:',round(AgeandIncome.values[0,1],2))
 ```
-The 0.2 is showing a positive correlation but the correlation is is very week.
-That means as age increases ,income tends to increase slightly,but the relationship is not strong.
-That means there is no as such connection is there between the earning of the customers with the age,so if the business focusing on high paying customers the business should check the income of the person individually age priority will not be the good option in that case.
-Events Insights:
+- The 0.2 is showing a positive correlation but the correlation is is very week.
+- That means as age increases ,income tends to increase slightly,but the relationship is not strong.
+- That means there is no as such connection is there between the earning of the customers with the age,so if the business focusing on high paying customers the business should check the income of the person individually age priority will not be the good option in that case.
+## Events Insights:
 ## How was the events distribution in the business?
 ```python
 col=['skyblue','pink','orange','gold']
