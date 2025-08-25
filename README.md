@@ -1,18 +1,18 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
 ## Problem Statement
-The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
-Offers can be of three types: informational, discount, or buy one, get one (BOGO).
-Customers receive different mixes of offers and have a limited time to redeem them.
-Customer engagement is recorded through events — offers received, viewed, completed — and purchases (transactions).
-The company wants to understand which offers and customer segments generate the highest engagement and sales to improve targeting in future campaigns.
+- The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
+- Offers can be of three types: informational, discount, or buy one, get one (BOGO).
+- Customers receive different mixes of offers and have a limited time to redeem them.
+- Customer engagement is recorded through events — offers received, viewed, completed — and purchases (transactions).
+- The company wants to understand which offers and customer segments generate the highest engagement and sales to improve targeting in future campaigns.
 ## Project Objectives
-Determine which offer types (BOGO, discount, informational) are most effective in driving completions.
-how many informational offers were followed by transactions.
-Measure the impact of offers on purchase behavior.
-Identify patterns in offer completions based on demographic factors.
-Evaluate which communication channels (email, web, mobile, social) lead to higher completion rates.
-Measure average time taken from offer receipt to completion.
-Provide data-driven recommendations to improve future marketing campaigns.
+- Determine which offer types (BOGO, discount, informational) are most effective in driving completions.
+- how many informational offers were followed by transactions.
+- Measure the impact of offers on purchase behavior.
+- Identify patterns in offer completions based on demographic factors.
+- Evaluate which communication channels (email, web, mobile, social) lead to higher completion rates.
+- Measure average time taken from offer receipt to completion.
+- Provide data-driven recommendations to improve future marketing campaigns.
 ```python
 Importing File & Required Liabraries
 import pandas as pd 
@@ -70,6 +70,9 @@ Customers.head(5)
 import datetime as dt
 ```python
 Customers['Year']=Customers['Membership'].dt.year
+```
+## Data cleaning
+```
 Events=pd.read_csv(r'C:\Users\Aarav Computer\Downloads\Caffe Rewards\events.csv')
 Events.head(10)
 Events['day']=(Events['time']//24)+1
