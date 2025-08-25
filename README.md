@@ -211,6 +211,8 @@ plt.show()
 - Design offers with a balanced difficulty and duration (not too hard, not too short) for better completion.
 
 - Track low-performing days and apply dynamic offers or promotions to maintain continuity in sales.
+  # Download the project file
+  [project](Coffee%20Project%20file.pdf)
 
 
 
