@@ -168,6 +168,7 @@ AgeandIncome
 print('Correlation coefficient\n------------')
 print('AgeIncomeCorr:',round(AgeandIncome.values[0,1],2))
 ```
+![Correlation](AgeIncomeCorrelation.png)
 - The 0.2 is showing a positive correlation but the correlation is is very week.
 - That means as age increases ,income tends to increase slightly,but the relationship is not strong.
 - That means there is no as such connection is there between the earning of the customers with the age,so if the business focusing on high paying customers the business should check the income of the person individually age priority will not be the good option in that case.
