@@ -236,8 +236,8 @@ Here are commonly used icons you can add to your GitHub README using Markdown:
 
 # SHAHISTA SHAIKH
 # Contact me:
-[📧 Gmail](shaikhshahi326@gmail.com)
-[🔗 LinkedIn](linkedin.com/in/shahista24)
+- 📧 Gmail: shaikhshahi326@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/shahista24
 
 
 
