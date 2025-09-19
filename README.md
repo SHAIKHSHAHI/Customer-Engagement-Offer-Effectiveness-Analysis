@@ -1,5 +1,4 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
-![Caffe](Caffe.jpeg)
 ![Caffe](Coffee-project-interior.jpg)
 ## Problem Statement
 - The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
