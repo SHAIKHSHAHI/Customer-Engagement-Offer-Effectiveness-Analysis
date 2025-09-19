@@ -1,12 +1,12 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
 ![Caffe](Coffee-project-interior.jpg)
-## Problem Statement
+#📌 Problem Statement
 - The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
 - Offers can be of three types: informational, discount, or buy one, get one (BOGO).
 - Customers receive different mixes of offers and have a limited time to redeem them.
 - Customer engagement is recorded through events — offers received, viewed, completed — and purchases (transactions).
 - The company wants to understand which offers and customer segments generate the highest engagement and sales to improve targeting in future campaigns.
-## Project Objectives
+# Project Objectives
 - Determine which offer types (BOGO, discount, informational) are most effective in driving completions.
 - how many informational offers were followed by transactions.
 - Measure the impact of offers on purchase behavior.
@@ -182,7 +182,7 @@ plt.pie(EventsCount['count'],autopct='%1.1f%%',colors=col,labels=EventsCount['ev
 plt.title('Events Distribution Percentage',fontsize =14)
 plt.show()
 ```
-## Conclusion :
+# Conclusion :
 - Male customers are more active than female customers in events and offer completions.
 
 - A small percentage (1.3%) of customers have unknown gender, which may distort customer insights.
@@ -203,7 +203,7 @@ plt.show()
 
 - Discount offers were the most popular, with two specific offers completing 5,000+ times each, while offers with high difficulty + short duration performed poorly.
 
-## Recommendations:
+# Recommendations:
 - Collect complete and accurate gender data to avoid bias in analysis.
 
 - Improve targeting by ensuring equal marketing across all age groups, not just older customers.
@@ -215,6 +215,20 @@ plt.show()
 - Design offers with a balanced difficulty and duration (not too hard, not too short) for better completion.
 
 - Track low-performing days and apply dynamic offers or promotions to maintain continuity in sales.
+  
+ # 📑 Workflow
+
+Data Cleaning – Removed nulls, handled duplicates.
+
+Exploratory Data Analysis (EDA) – Age distribution, income correlation, event trends.
+
+Visualization – Created insights using Matplotlib & Seaborn.
+
+Dashboard – Built interactive reports in Power BI.
+
+Documentation – Compiled results into PDF.
+
+📂 Project Files
   # Download the project file
   📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
 
