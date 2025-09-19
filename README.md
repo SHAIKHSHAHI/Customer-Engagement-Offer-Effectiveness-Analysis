@@ -1,5 +1,9 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
 ![Caffe](Coffee-project-interior.jpg)
+📂 Project Files
+# Download the project file
+  📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
+
 #📌 Problem Statement
 - The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
 - Offers can be of three types: informational, discount, or buy one, get one (BOGO).
@@ -228,11 +232,9 @@ plt.show()
 
 - Documentation – Compiled results into PDF.
 
-📂 Project Files
-  # Download the project file
-  📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
 
-Here are commonly used icons you can add to your GitHub README using Markdown:
+ 
+
 
 # SHAHISTA SHAIKH
 # Contact me:
