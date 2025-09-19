@@ -1,6 +1,6 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
 ![Caffe](Coffee-project-interior.jpg)
-![Caffe](Your%20paragraph%20text.png)
+
 
 📂 Project Files
 # Download the project file
