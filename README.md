@@ -218,19 +218,34 @@ plt.show()
   
  # 📑 Workflow
 
-Data Cleaning – Removed nulls, handled duplicates.
+- Data Cleaning – Removed nulls, handled duplicates.
 
-Exploratory Data Analysis (EDA) – Age distribution, income correlation, event trends.
+- Exploratory Data Analysis (EDA) – Age distribution, income correlation, event trends.
 
-Visualization – Created insights using Matplotlib & Seaborn.
+- Visualization – Created insights using Matplotlib & Seaborn.
 
-Dashboard – Built interactive reports in Power BI.
+- Dashboard – Built interactive reports in Power BI.
 
-Documentation – Compiled results into PDF.
+- Documentation – Compiled results into PDF.
 
 📂 Project Files
   # Download the project file
   📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
+
+Here are commonly used icons you can add to your GitHub README using Markdown:
+
+**Gmail Icon:**
+
+```markdown
+[![Gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:your-email@gmail.com)
+```
+
+**LinkedIn Icon:**
+
+```markdown
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/your-profile/)
+```
+
 
 
   
