@@ -237,13 +237,13 @@ Here are commonly used icons you can add to your GitHub README using Markdown:
 **Gmail Icon:**
 
 ```markdown
-[![Gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:your-email@gmail.com)
+![Gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:your-email@gmail.com)
 ```
 
 **LinkedIn Icon:**
 
 ```markdown
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/your-profile/)
+![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/your-profile/)
 ```
 
 
