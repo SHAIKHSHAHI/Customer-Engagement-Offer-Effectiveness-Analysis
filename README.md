@@ -217,6 +217,8 @@ plt.show()
 - Track low-performing days and apply dynamic offers or promotions to maintain continuity in sales.
   # Download the project file
   [project](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/blob/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
+  📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
+
 
   
 # SHAHISTA SHAIKH
