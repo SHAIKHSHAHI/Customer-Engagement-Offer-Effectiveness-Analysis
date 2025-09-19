@@ -1,6 +1,7 @@
 # Customer-Engagement-Offer-Effectiveness-Analysis
 ![Caffe](Coffee-project-interior.jpg)
 ![Caffe](Untitled%20design.png)
+![Banner](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/main/banner.png)
 
 
 📂 Project Files
