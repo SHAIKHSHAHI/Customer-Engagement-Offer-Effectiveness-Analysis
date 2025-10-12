@@ -5,10 +5,10 @@
 
 
 📂 Project Files
-# Download the project file
-  📄 [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
+#  📄 Download the project file
+  [View Full PDF Report](https://github.com/SHAIKHSHAHI/Customer-Engagement-Offer-Effectiveness-Analysis/raw/6feefc8789f2942e8a36c3febc8a2bd509549403/Coffee%20Project%20file.pdf)
 
-#📌 Problem Statement
+# 📌 Problem Statement
 - The Cafe Rewards program runs marketing campaigns that send promotional offers to customers over a 30-day period.
 - Offers can be of three types: informational, discount, or buy one, get one (BOGO).
 - Customers receive different mixes of offers and have a limited time to redeem them.
